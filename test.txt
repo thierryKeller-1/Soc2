@@ -1,0 +1,7 @@
+SOC: https://github.com/thierryKeller-1/SOC.git (branch 15-04-2025)
+booking: https://github.com/thierryKeller-1/bookingscraper.git (branch main)
+edomizil: https://github.com/thierryKeller-1/edomizil.git (branch develop)
+
+
+g2a-v4: https://github.com/thierryKeller-1/g2a-v4.git (branch main ampiasaina maeva)
+pricing: https://github.com/thierryKeller-1/Pricing.git (mandeha fa tsy stable ndray2)
